@@ -12,6 +12,6 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: mycharts
-        namespace: default
+        namespace: flux-system
   interval: 1m0s
 
